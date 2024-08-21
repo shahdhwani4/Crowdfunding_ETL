@@ -36,26 +36,32 @@ The motivation behind this project is to explore the relationships and patterns 
 
 #### Figure 1: Original Crowdfunding Data
 ![Figure 1](https://github.com/shahdhwani4/Crowdfunding_ETL/blob/jenny_branch/images/fig1.png)
+
 *A portion of the original DataFrame extracted before cleaning.*
 
 #### Figure 2: Entity-Relationship Diagram (ERD)
 ![Figure 2](https://github.com/shahdhwani4/Crowdfunding_ETL/blob/jenny_branch/images/fig2.png)
+
 *The entity-relationship diagram illustrating the database schema.*
 
 #### Figure 3: Contacts Table
 ![Figure 3](https://github.com/shahdhwani4/Crowdfunding_ETL/blob/jenny_branch/images/fig3.png)
+
 *A portion of the 'Contacts' table in the crowdfunding database.*
 
 #### Figure 4: Category Table
 ![Figure 4](https://github.com/shahdhwani4/Crowdfunding_ETL/blob/jenny_branch/images/fig4.png)
+
 *A portion of the 'Category' table in the crowdfunding database.*
 
 #### Figure 5: Subcategory Table
 ![Figure 5](https://github.com/shahdhwani4/Crowdfunding_ETL/blob/jenny_branch/images/fig5.png)
+
 *A portion of the 'Subcategory' table in the crowdfunding database.*
 
 #### Figure 6: Campaign Table
 ![Figure 6](https://github.com/shahdhwani4/Crowdfunding_ETL/blob/jenny_branch/images/fig6.png)
+
 *A portion of the 'Campaign' table in the crowdfunding database.*
 
 ## Conclusions
